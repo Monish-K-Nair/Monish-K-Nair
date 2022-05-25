@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Monish-K-Nair
-- 👀 I’m interested in Python, Golang, Rust, React, Vue, Angular
+- 👀 I’m interested in Python, Golang, Rust, NodeJS, React, Vue, Angular
 - 🌱 I’m currently learning Pony, Crystal
